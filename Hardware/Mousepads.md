@@ -35,7 +35,7 @@ Check mousepad settings in Windows to ensure it's enabled and sensitivity is adj
 
 5. If the option is available, click on it to run.
 
-## Consider a system restore: 
+## Consider a system restore: (Consult with IT)
 1. If the problem persists, you can try a system restore point before the update
 2. To do this, search "Create a restore point" in the Windows search bar and click to open
 3. In the pop-up menu, click "System Restore" and click Next
