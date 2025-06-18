@@ -27,9 +27,9 @@ Check mousepad settings in Windows to ensure it's enabled and sensitivity is adj
 1. If the issue started after a specific update, try rolling back to the previous driver version
 2. To do this, go to **Device Manager** (right-click the Start button click on it) and right-click on the touchpad and select "Properties"
 
-  ![image](https://github.com/user-attachments/assets/985d0467-492f-406c-8dac-9c7697159415)
+   ![image](https://github.com/user-attachments/assets/985d0467-492f-406c-8dac-9c7697159415)
 
-3. Go to the Driver tab and click "Roll Back Driver"
+4. Go to the Driver tab and click "Roll Back Driver"
 
    ![image](https://github.com/user-attachments/assets/3966f827-5050-4b12-bdbb-fe6f2a43dd64)
 
@@ -42,7 +42,8 @@ Check mousepad settings in Windows to ensure it's enabled and sensitivity is adj
    
    ![image](https://github.com/user-attachments/assets/b66b6552-898b-4fb5-a278-b8424b20224b)
 
-5. In the system restore settings, click Next and select a restore point you want to use (a point that is before the issue occurred)
+4. In the system restore settings, click Next and select a restore point you want to use (a point that is before the issue occurred)
+
    ![image](https://github.com/user-attachments/assets/c2bb07c1-d919-4b2c-b65e-6e396adc3b16)
 
 7. If you don't see the one you're looking for, check the "Show more restore points" box.
