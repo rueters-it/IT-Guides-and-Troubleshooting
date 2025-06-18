@@ -1,4 +1,5 @@
 # Mouspad Unfunctional
+A touchpad not working after a Windows update is a common issue, often due to driver problems. To fix this, try updating or reinstalling the touchpad drivers through Device Manager. If that doesn't work, consider rolling back the Windows update or checking for hardware issues.  
 
 ## Check mousepad settings 
 Check mousepad settings in Windows to ensure it's enabled and sensitivity is adjusted.
