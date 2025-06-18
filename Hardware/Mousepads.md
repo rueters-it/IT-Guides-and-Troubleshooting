@@ -18,7 +18,7 @@ Check mousepad settings in Windows to ensure it's enabled and sensitivity is adj
 
 ## Uninstall touchpad drivers:
 1. If updating doesn't help, try uninstalling the driver and restarting your computer to allow Windows to reinstall it automatically.
-2. Follow the same steps for "Update touchpad drivers" (above) > Uninstall driver
+2. Follow the same steps for "Update touchpad drivers" (above) > Uninstall device
 3. Restart the device
    
    ![image](https://github.com/user-attachments/assets/7f6afccf-7680-4bc2-8cf7-de7a5a8b6797)
