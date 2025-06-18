@@ -58,4 +58,5 @@ Check mousepad settings in Windows to ensure it's enabled and sensitivity is adj
 2. This can help determine if the problem is isolated to the touchpad itself.
 
 ## Resources
-1. [How to Fix Laptop's Touchpad Not Working Windows 10/11](https://youtu.be/jA4WmVv-p78?si=oxQ8sX8MvyT4C_fC)
+1. [Fix touchpad problems in Windows](https://support.microsoft.com/en-us/windows/fix-touchpad-problems-in-windows-30b498e5-0caa-9740-2b21-336ea75ee756)
+2. [How to Fix Laptop's Touchpad Not Working Windows 10/11](https://youtu.be/jA4WmVv-p78?si=oxQ8sX8MvyT4C_fC)
