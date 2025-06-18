@@ -1,7 +1,7 @@
 # Mouspad Unfunctional
 A touchpad not working after a Windows update is a common issue, often due to driver problems. To fix this, try updating or reinstalling the touchpad drivers through Device Manager. If that doesn't work, consider rolling back the Windows update or checking for hardware issues.  
 
-## Check mousepad settings 
+## Check mousepad settings: 
 Check mousepad settings in Windows to ensure it's enabled and sensitivity is adjusted.
 1. Go to **Settings** > **Bluetooh & Devices** > **Touchpad**
    ![image](https://github.com/user-attachments/assets/3899dc5d-753a-4c40-9719-aab39612b723)
@@ -10,7 +10,7 @@ Check mousepad settings in Windows to ensure it's enabled and sensitivity is adj
    ![image](https://github.com/user-attachments/assets/5babe5e3-55d0-4249-b33f-8943ecde54f8)
 
 
-## Update touchpad drivers 
+## Update touchpad drivers: 
 1. Right-click the Start button and navigate to **Device Manager**
 2. Expand "Mice and other pointing devices" or "Human Interface Devices"
 3. Locate the appropriate mouse driver for the touchpade, right-click on it and select "Update driver"
@@ -20,7 +20,7 @@ Check mousepad settings in Windows to ensure it's enabled and sensitivity is adj
    ![image](https://github.com/user-attachments/assets/7f6afccf-7680-4bc2-8cf7-de7a5a8b6797)
 
 
-## Roll back drivers
+## Roll back drivers:
 1. If the issue started after a specific update, try rolling back to the previous driver version
 2. To do this, go to **Device Manager** (right-click the Start button click on it) and right-click on the touchpad and select "Properties"
 
@@ -32,7 +32,7 @@ Check mousepad settings in Windows to ensure it's enabled and sensitivity is adj
 
 5. If the option is available, click on it to run.
 
-## Consider a System Restore 
+## Consider a system restore: 
 1. If the problem persists, you can try a system restore point before the update
 2. To do this, search "Create a restore point" in the Windows search bar and click to open
 3. In the pop-up menu, click "System Restore" and click Next
@@ -49,11 +49,11 @@ Check mousepad settings in Windows to ensure it's enabled and sensitivity is adj
 **Note:** Your device will restart and revert to the chosen restore point. This process may take some time, so ensure your device is connected to a power source. After the restart, your system will be restored to the selected point. This only reverts system files and settings, not your personal files. 
  
 
-## Check for Third-Pary Software Conflicts 
+## Check for third-pary software conflicts: 
 1. Sometimes, newly installed software can interfere with the touchpad.
 2. Try disabling or uninstalling recently installed software to see if it resolves the issue.
 
-## Use an external mouse 
+## Use an external mouse: 
 1. If you have an external mouse, connect it to your laptop to see if it works.
 2. This can help determine if the problem is isolated to the touchpad itself.
 
