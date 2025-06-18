@@ -35,14 +35,16 @@ Check mousepad settings in Windows to ensure it's enabled and sensitivity is adj
 ## Consider a System Restore 
 1. If the problem persists, you can try a system restore point before the update
 2. To do this, search "Create a restore point" in the Windows search bar and click to open
-3. In the pop-up menu, click "System Restore"
+3. In the pop-up menu, click "System Restore" and click Next
    
    ![image](https://github.com/user-attachments/assets/b66b6552-898b-4fb5-a278-b8424b20224b)
 
-5. In the system restore settings, click Next and select a restore point before the issue occurred
-6. Select the restore point you want to use. If you don't see the one you're looking for, check the "Show more restore points" box.
-7. Click Next after selecting a restore point, confirm, then Finish
-8. Select Yes to start the restoration process
+5. In the system restore settings, click Next and select a restore point you want to use (a point that is before the issue occurred)
+   ![image](https://github.com/user-attachments/assets/c2bb07c1-d919-4b2c-b65e-6e396adc3b16)
+
+7. If you don't see the one you're looking for, check the "Show more restore points" box.
+8. Click Next after selecting a restore point, confirm, then Finish
+9. Select Yes to start the restoration process
 
 **Note:** Your device will restart and revert to the chosen restore point. This process may take some time, so ensure your device is connected to a power source. After the restart, your system will be restored to the selected point. This only reverts system files and settings, not your personal files. 
  
