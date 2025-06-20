@@ -23,4 +23,4 @@ A slow laptop can be caused by a variety of factors, including insufficient RAM,
 
 
 ## Resources 
-1. 
+1. [How to Clean a C Drive in Windows 10](https://youtu.be/DHq3bqowzW0?si=LrInrgQE_C_trrA_)
