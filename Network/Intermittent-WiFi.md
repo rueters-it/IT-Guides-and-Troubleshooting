@@ -5,6 +5,22 @@ If the wifi keeps dropping and reconnecting (intermittent connectivity), even af
 ## Understanding the Issue 
 
 ## Common Causes 
+1. Wi-Fi interference
+2. Overheating or Failing Router
+3. Too Many Devices on Network
+4. Power Supply or Voltage Fluctuations
+5. Modem Issues
+6. Driver or Firware Problems
+7. Device specific issues
+8. DHCP or IP conflicts
+9. Weak Signal Strength or Coverage
+10. Security Settings or Network Flood
+
+## Test
+
+### Ping Test
+1. Conduct a ping test to Google (8.8.8.8)
+2. If you see "Request time out" or big delays, the problem is likely your network and not the device.  
 
 ## Troubleshoot
 - Check with ISP to test network connection/signal
