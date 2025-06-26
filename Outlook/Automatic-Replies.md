@@ -4,4 +4,4 @@
 
 1. Open Outlook > Settings > Automatic replies
 2. Confiure appropriate settings.
-3. Include message: "I am currently out of office with limited access to Outlook. I will be returning Monday, June 30 and will respond to all messages and tickets as soon as possible upon my return." or similiar. 
+3. Include message: "I am currently out of office with limited access to Outlook. I will be returning [insert Date] and will respond to all messages and tickets as soon as possible upon my return." or similiar. 
