@@ -7,7 +7,7 @@
    
     ![image](https://github.com/user-attachments/assets/a9367575-2255-406b-9d6f-bcf6551f2e13)
 
-## Using the Start Menu:
+## Method 2: Using the Start Menu:
 1. Click the Start button.
 2. Click on your user icon (usually located in the lower-left corner).
 3. Select "Switch user" from the menu. (You may need to click the ellipses (•••) for "more options" to see other user profiles on the device.)
@@ -15,7 +15,7 @@
    
    ![image](https://github.com/user-attachments/assets/550da349-9901-443a-89bc-fb37e847a241)
 
-## Using the Sign-in Screen:
+## Method 3: Using the Sign-in Screen:
 1. If you're currently logged in, you may need to log out or lock your computer (`Windows key` + `L`) to reach the sign-in screen.
 2. On the sign-in screen, click the "Other user" option.
 3. Select the account you want to log into.
