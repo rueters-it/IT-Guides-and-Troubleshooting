@@ -1,4 +1,4 @@
-# How to Switch to Another Desktop User Profile (Windows) 
+# Switch Desktop User Profiles (Windows) 
 
 ## Method 1: Using Ctrl+Alt+Delete:
 1. Press Ctrl + Alt + Delete on your keyboard.
