@@ -21,6 +21,9 @@ Use automatic (Out of Office) replies from Outlook to tell people you won't be r
    - **Note:** This is automically set to OFF and is not always necessary or desireable. Sending automatic replies to anyone outside my organization will send your automatic reply to _every_ email, including newsletters, advertisements, and potentially, junk email. If you want to send automatic replies to those outside your organization, we recommend choosing **My contacts only**.
 7. 6. **IMPORTANT:** If you don't see the above option, you will have to use _rules_ to send an out of office message (see below).
 
+#### Resources
+1. [Microsoft Support | Send automatic replies (out of office) from Outlook](https://support.microsoft.com/en-us/office/send-automatic-replies-out-of-office-from-outlook-9742f476-5348-4f9f-997f-5e208513bd67#officeversion=classic_outlook)
+
 ## Using Rules to Send Automatic Replies
 
 Only certain types of accounts support the Automatic Replies (Out-of-Office) feature. If you don't see the Automatic Replies button, your email account doesn't support this feature. However, if you leave Outlook running while you're away, you can use rules to reply to your email messages automatically. Rules also allow you to forward emails to another account, mark messages as read, or move them to a folder automatically.
