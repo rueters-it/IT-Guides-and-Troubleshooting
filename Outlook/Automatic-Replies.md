@@ -1,4 +1,4 @@
-# Outlook Automatic Replies
+# Outlook Automatic Replies (New Outlook)
 
 ![image](https://github.com/user-attachments/assets/cbdf0876-4ea5-4c12-8dc1-665aa59e3546)
 
