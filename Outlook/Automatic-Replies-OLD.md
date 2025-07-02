@@ -26,6 +26,6 @@ Use automatic (Out of Office) replies from Outlook to tell people you won't be r
 
 ## Using Rules to Send Automatic Replies
 
-Only certain types of accounts support the Automatic Replies (Out-of-Office) feature. If you don't see the Automatic Replies button, your email account doesn't support this feature. However, if you leave Outlook running while you're away, you can use rules to reply to your email messages automatically. Rules also allow you to forward emails to another account, mark messages as read, or move them to a folder automatically.
+Only certain types of accounts support the Automatic Replies (Out-of-Office) feature. If you don't see the Automatic Replies button, _your email account doesn't support this feature_. However, if you leave Outlook running while you're away, you can use rules to reply to your email messages automatically. Rules also allow you to forward emails to another account, mark messages as read, or move them to a folder automatically.
 
 See [Use rules to create an out of office message in outlook](https://support.microsoft.com/en-us/office/use-rules-to-create-an-out-of-office-message-in-outlook-9f124e4a-749e-4288-a266-2d009686b403) for more information and set up. 
