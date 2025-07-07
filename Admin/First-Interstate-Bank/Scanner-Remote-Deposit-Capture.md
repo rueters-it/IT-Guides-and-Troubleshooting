@@ -1,8 +1,9 @@
 # Remote Deposit Capture 
 
 # First Things
-1. [Remote Deposit Capture System Requirements](https://www.firstinterstatebank.com/support/system/remote-deposit.php)
-
+1. Signer/user must be present (log-in credentials needed)
+2. [Remote Deposit Capture System Requirements](https://www.firstinterstatebank.com/support/system/remote-deposit.php)
+   
 # Support 
 - Website [here](https://www.firstinterstatebank.com/support/)
 - Client Team: 855-342-3400 (general banking support)
