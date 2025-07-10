@@ -7,7 +7,11 @@
 # Support 
 - Website [here](https://www.firstinterstatebank.com/support/)
 - Client Team: 855-342-3400 (general banking support)
-- Treasury Team: 888-833-3450 (call this number for direct technical support)
+- Treasury Solutions Department: 888-833-3450 (call this number for direct technical support)
+
+## Info Needed from Signer
+- Account Number
+- 
 
 # Resources
 1. [Online bank tour - Remote Deposit Capture](https://www.onlinebanktours.com/mobile/?b=233&c=96556)
