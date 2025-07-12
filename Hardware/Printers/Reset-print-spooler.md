@@ -17,7 +17,7 @@ Resetting the print spooler may resolving majority of common printing errors, su
 6. Print spooler has been reset, attempt to process a print and see if the issue is resolved.
 7. If this did not resolve the issue, contact IT.
  
-![image](https://github.com/user-attachments/assets/70223d08-d43e-4122-85c4-72596ed9777f)
+![STOP-bd49dd6d27a7474a820b2775fa0b7b97](https://github.com/user-attachments/assets/d9e8153f-4edd-470d-8d69-d612cdc98464)
 
 ### Respources
 1. [What is spooler service and how do I access it?](https://answers.microsoft.com/en-us/windows/forum/all/what-is-spooler-service-and-how-do-i-access-it/ccc1ddab-76d4-4a99-ac62-629cc89fe396)
