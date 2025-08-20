@@ -22,3 +22,10 @@ To port a Kinetic (formerly Windstream) phone number to U.S. Cellular, you'll ne
 4. Understand that porting could take up to a week
 5. Contact Kintetic if needed for additional info or assistance
 6. See here ([Port a Number with US Cellular](https://www.uscellular.com/support/faq/port-number)) for more info. 
+
+### Best Practices
+- Establishe a business account for The Hill with a mobile carrier that is best (US Cellular or Verizon).
+- Avoid using personal information to set-up the account to make it user for overall account management.
+- Establish an account owner or managers that are appropriate.
+- A billing method needs to be established that is appropriate for The Hill.
+- Document all account information!
