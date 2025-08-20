@@ -8,7 +8,7 @@ The best way to establish this is to port the Kinetic land line number to US Cel
 
 ## Port Kinet to U.S. Ceulluar (or Verizon) 
 To port a Kinetic (formerly Windstream) phone number to U.S. Cellular, you'll need to provide your new carrier with specific information from your Kinetic account and initiate the porting process with them. The following info will likely be needed so it is good to gather these info and have them on hand: 
-- Current phone number (5151-738-2633)
+- Current phone number (515-738-2633)
 - The ZIP code of The Hill (50107)
 - The account number associated with your Kinetic service
 - Potentially a porting PIN or passcode (created and documented when phone line was established)
