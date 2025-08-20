@@ -1,6 +1,6 @@
 # Porting The Hill Landline to Mobile 
 
-As of August 2025, the Hill phone system consists of a landline (515-738-2633) and a mobile phone (515-732-1282). An attempt was made by popular demand that a mobile phone is best for the business. A Verizon number was established as a result of the Hill landline consistently going out. The landline is through Kinetic. 
+As of August 2025, the Hill phone system consists of a landline (515-738-2633) and a mobile phone. An attempt was made by popular demand that a mobile phone is best for the business. A Verizon number was established as a result of the Hill landline consistently going out. The landline is through Kinetic. 
 
 The Verizon number will be cancelled and a porting process from Kinetic to a different/same mobile carrier should be established using The Hill business credentials (contrast with employee personal information) for overall better functionality and management of the mobile device in the future. 
 
